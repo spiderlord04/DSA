@@ -9,7 +9,8 @@ public class QueueReversal {
         Stack<Integer> s = new Stack<>();
         
     }
+
     public static void main(String[] args) {
-        
+//jitu        
     }
 }
